@@ -1,4 +1,4 @@
-# %%PartnerName%%
+# %%Partner Name%%
 ## General Compatibility
 |Feature|  |
 |---|---|

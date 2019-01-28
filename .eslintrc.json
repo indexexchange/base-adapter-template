@@ -1,5 +1,20 @@
 {
-    "extends": [
-        "eslint-config-adapters"
-    ]
+  "extends": [
+        "eslint-config-base/4.13.1/main",
+        "eslint-config-base/4.13.1/possible-errors",
+        "eslint-config-base/4.13.1/best-practices",
+        "eslint-config-base/4.13.1/strict-mode",
+        "eslint-config-base/4.13.1/variables",
+        "eslint-config-base/4.13.1/nodejs-and-commonjs",
+        "eslint-config-base/4.13.1/stylistic-issues",
+        "eslint-config-base/4.13.1/es6"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true,
+    "es6": true
+  }
 }

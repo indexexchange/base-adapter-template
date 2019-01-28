@@ -7,7 +7,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "eslint": "^4.13.1",
-    "eslint-config-adapters": "git+https://github.com/indexexchange/eslint-config-adapters.git"
+    "eslint-config-base": "git+https://github.com/indexexchange/eslint-config-base.git"
   },
   "scripts": {
     "lint": "node ./node_modules/eslint/bin/eslint.js --ignore-path=./.eslintignore .",
