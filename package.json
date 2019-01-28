@@ -1,5 +1,5 @@
 {
-  "name": "self-serve-partners-template",
+  "name": "base-adapter-template",
   "version": "1.0.0",
   "description": "A complete self-serve partner development package for Index Exchange's wrapper.",
   "private": true,
