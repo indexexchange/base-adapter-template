@@ -3,8 +3,6 @@
 |Feature|  |
 |---|---|
 | Consent |  |
-| Native Ad Support |  |
-| SafeFrame Support |  |
 | PMP Support | |
  
 ## Browser Compatibility
@@ -27,15 +25,9 @@
 | Info | |
 |---|---|
 | Partner Id | %%PartnerName%%%%PartnerType%% |
-| Ad Server Responds in (Cents, Dollars, etc) | |
-| Bid Type (Gross / Net) | |
-| GAM Key (Open Market) | |
-| GAM Key (Private Market) | |
 | Ad Server URLs | |
 | Slot Mapping Style (Size / Multiple Sizes / Slot) | |
 | Request Architecture (MRA / SRA) | |
- 
-## Currencies Supported
  
 ## Bid Request Information
 ### Parameters
