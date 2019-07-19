@@ -67,3 +67,9 @@
 ```javascript
  
 ```
+
+## Test Configuration
+(Test configuration or methodology that can be used to retrieve & render a test creative from %%Partner Name%%'s platform)
+```javascript
+ 
+```
